@@ -28,28 +28,21 @@ The goal of this analysis is to help the business understand sales, customer hab
 ## 📂 Project Structure
 
 ```text
-├── olistd/                        # Raw CSV data files
-├── olist_ecommerce_analysis.ipynb # Main analysis notebook (SQL + Python)
-├── README.md                      # Project summary
-└── requirements.txt               # Required Python packages
-```
+├── olistd/                    # Raw CSV data files
+├── olistdataa.ipynb           # Main analysis notebook (SQL + Python)
+├── README.md                  # Project summary
+└── requirements.txt           # Required Python packages
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-```bash
-git clone [https://github.com/your_username/olist-ecommerce-analytics.git](https://github.com/your_username/olist-ecommerce-analytics.git)
-cd olist-ecommerce-analytics
-```
+git clone [https://github.com/frhtk3370/data-a-olist-analysis.git](https://github.com/frhtk3370/data-a-olist-analysis.git)
+cd data-a-olist-analysis
 
-2. Install the libraries:
-```bash
 pip install -r requirements.txt
-```
 
 3. Open the notebook:
-```bash
-jupyter notebook olist_ecommerce_analysis.ipynb
+jupyter notebook olistdataa.ipynb
 ```
