@@ -32,19 +32,24 @@ The goal of this analysis is to help the business understand sales, customer hab
 ├── olistdataa.ipynb           # Main analysis notebook (SQL + Python)
 ├── README.md                  # Project summary
 └── requirements.txt           # Required Python packages
+```
+
+---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-Bash
+```bash
 git clone [https://github.com/frhtk3370/data-a-olist-analysis.git](https://github.com/frhtk3370/data-a-olist-analysis.git)
 cd data-a-olist-analysis
+```
 
-2.Install the libraries:
-Bash
+2. Install the libraries:
+```bash
 pip install -r requirements.txt
+```
 
 3. Open the notebook:
-Bash
+```bash
 jupyter notebook olistdataa.ipynb
 ```
